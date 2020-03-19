@@ -1,0 +1,10 @@
+C:\Users\fvrqo\Source\Repos\ToDoListApp\Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Users\fvrqo\Source\Repos\ToDoListApp\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Users\fvrqo\Source\Repos\ToDoListApp\Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Users\fvrqo\Source\Repos\ToDoListApp\Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\fvrqo\Source\Repos\ToDoListApp\Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\fvrqo\Source\Repos\ToDoListApp\Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Users\fvrqo\Source\Repos\ToDoListApp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Users\fvrqo\Source\Repos\ToDoListApp\Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Users\fvrqo\Source\Repos\ToDoListApp\Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Users\fvrqo\Source\Repos\ToDoListApp\Data\obj\Debug\netcoreapp3.1\Data.pdb

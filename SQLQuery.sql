@@ -1,0 +1,1 @@
+﻿execute SP_GetActivities '';
